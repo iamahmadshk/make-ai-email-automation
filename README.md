@@ -39,4 +39,4 @@ The workflow automatically categorizes incoming emails as **Sales Enquiry, Compl
 I am exploring **AI automation** with Make.com, Google Gemini AI, and workflow integrations.  
 This project demonstrates how AI + automation can **streamline customer service responses**.  
 
-👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadahmad999/)  
